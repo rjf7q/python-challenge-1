@@ -6,10 +6,12 @@ https://static.bc-edx.com/ai/ail-v-1-0/m2/lms/starter/M2_Starter_Code.zip
 Welcome to the variety food truck.
 From which menu would you like to order? 
 
-1: Snacks
-2: Meals
-3: Drinks
-4: Dessert
+Item   | Menu name  
+-------|------------
+1      | Snacks     
+2      | Meals      
+3      | Drinks     
+4      | Dessert    
 
 Type menu number: 1
 You selected Snacks
